@@ -30,7 +30,7 @@
     "year": 2015,
     "amount": "$2,068,223,624",
     "img": {
-      "src": "media/star_wars_the_force_awakens.jpg",
+      "src": "media/stars-wars.jpg",
       "alt": "star_wars_the_force_awakens"
     },
     "ranking": 3
@@ -42,7 +42,7 @@
     "year": 2018,
     "amount": "$2,048,359,754",
     "img": {
-      "src": "media/avengers_infinity_war.jpg",
+      "src": "media/avengers.jpg",
       "alt": "avengers_infinity_war"
     },
     "ranking": 4
@@ -54,7 +54,7 @@
     "year": 2015,
     "amount": "$1,671,713,208",
     "img": {
-      "src": "media/jurassic_world.jpg",
+      "src": "media/jurrasic-world",
       "alt": "jurassic_world"
     },
     "ranking": 5
