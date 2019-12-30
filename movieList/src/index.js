@@ -7,11 +7,11 @@ const App = () => {
 
 
    return(
-       <>
-       <h1>Main area</h1>
+       <div className="container-fluid">
+   
 
         <List/>
-       </>
+       </div>
    )
 }
 

@@ -1,10 +1,11 @@
 import React from 'react';
+import './card.css'
 
 
 
 const Card = ({ movie }) => {
    return (
-      <div>
+      <div className="card"> 
           <h2>{`#${movie.ranking} - ${movie.title} (${movie.year})`}</h2>
           <img src={movie.img.src} alt={movie.img.alt} width='200' />
           <p>{`Distributor: ${movie.distributor}`}</p>

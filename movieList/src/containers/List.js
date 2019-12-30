@@ -48,8 +48,17 @@ class List extends Component{
     }
 
 
-    return data.map((movie) =>
+    return( 
+
+      <div class="row">
+      {
+      data.map((movie) =>
+      <div class="col-sm-2">
           <Card key={movie.id} movie={movie}/>
+      </div>
+    )}
+
+    </div>
     )
   }
 }
